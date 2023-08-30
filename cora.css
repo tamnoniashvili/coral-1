@@ -1,0 +1,111 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    padding: 0;
+    margin: 0;
+}
+.box {
+    width: 1320px;
+    height: 113px;
+    margin-top: 31px;
+}
+.accaunt {
+    
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: black;
+    
+}
+.shopnow {
+    width: Hug (223px)
+    height: Hug (72px)
+    top: 591px
+    left: 304px
+    padding: 19px 26px 19px 26px
+    gap: 8px
+}
+.Filter {
+    margin-left: 1000px;
+}
+.price {
+    margin-left: 250px;
+    margin-top: -27px;
+}
+.dark{
+    color: #00000080;
+
+}
+.fasi{
+    margin-left: 180px;
+    margin-top: -27px;
+}
+.red {
+    margin-top: -27px;
+    margin-left: 250px;
+    color: #FF6F61;
+}
+.black {
+    width: 100%;
+}
+.zara{
+    margin-left: 1250px;
+    margin-top: -1150px;
+}
+.zarapic{
+    margin-top: -1050px;
+    margin-left: 1000px;
+}
+h5{
+    color: #FFFFFF;
+    margin-top: -450px;
+    margin-left: 1000px;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.btn {
+    margin-left: 1000px;
+    background-color: #FFFFFF;
+    width: 237px;
+    height: 72px;
+    border-radius: 0%;
+    font-size: 29px;
+    margin-top: 50px;
+}
+.box{
+    margin-top: 150px;
+    font-size: 50px;
+    color: #000000;
+}
+.navi {
+    margin-left: 50px;
+}
+.container-fluid {
+    background-color: #F3F2F3;
+    height: 754px;
+}
+.instagram {
+    margin-top: 100px;
+}
+.input {
+    margin-left: 380px;
+    outline: none;
+}
+.line {
+    margin-left: 350px;
+}
+.scroll {
+    color: #FFFFFF;
+}
+.acc {
+    color: #000000;
+}
